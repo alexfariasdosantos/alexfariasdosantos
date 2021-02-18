@@ -84,6 +84,9 @@
 
 ## Bugs que já reportei
 
+<code><img height="32" src="https://britania.vteximg.com.br/arquivos/logo-britania-blue-20.png" alt="Britania"/></code>
+<code><img height="32" src="https://philco.vteximg.com.br/arquivos/logo-philco-black-20.png" alt="Philco"/></code>
+
 <br/>
 
 - 📌 [Minha experiência como Bolsista da Digital House by Santander Coders](https://www.linkedin.com/pulse/minha-experi%C3%AAncia-como-bolsista-da-digital-house-coders-mashiba/)<br />
@@ -91,7 +94,7 @@
 
 <br/>
 
-## Coding Activity
+## Coding Activitys
 
 <br/>
 
