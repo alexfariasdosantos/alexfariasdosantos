@@ -42,7 +42,7 @@
 
 **Sistemas Operacionais**
 
-<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/windows-512.png" alt="Windows"/> <a href="www.google.com">Win</a> </code>
+<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/windows-512.png" alt="Windows"/></code>
 <code><img height="32" src="https://gtltecnologia.com.br/wp-content/uploads/2017/05/windows-server-logo-300x159.png" alt="WinServer"/></code>
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ubuntu-512.png" alt="Ubuntu"/></code>
 <code><img height="32" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/debian-512.png" alt="Debian"/></code>
