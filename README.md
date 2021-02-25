@@ -28,11 +28,11 @@
 ### Como me encontrar:
 
 <a href="https://www.linkedin.com/in/alexfariasantos/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg" /></code>
+  <code><img alt="My linkedin" width="32" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1614275769~hmac=9d20f238957e9e109085a51380446f00" /></code>
 </a>
 
 <a href="mailto:alexfarias01@outlook.com">
-  <code><img alt="My e-mail" width="28" src="https://www.flaticon.com/svg/vstatic/svg/906/906312.svg?token=exp=1614275562~hmac=cae8139f6cb7a7488d94a5b7df6df662" /></code>
+  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/vstatic/svg/906/906312.svg?token=exp=1614275562~hmac=cae8139f6cb7a7488d94a5b7df6df662" /></code>
 </a>
 
 <br/><br/>
