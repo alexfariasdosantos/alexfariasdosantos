@@ -28,7 +28,7 @@
 ### Como me encontrar:
 
 <a href="https://www.linkedin.com/in/alexfariasantos/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/vstatic/svg/906/906312.svg" /></code>
 </a>
 
 <a href="mailto:alexfarias01@outlook.com">
