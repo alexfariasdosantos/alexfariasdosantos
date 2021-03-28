@@ -89,23 +89,6 @@
 
 <br/>
 
-- 📌 [Minha experiência como Bolsista da Digital House by Santander Coders](https://www.linkedin.com/pulse/minha-experi%C3%AAncia-como-bolsista-da-digital-house-coders-mashiba/)<br />
-- 📌 [Meus aprendizados no Basecamp](https://www.linkedin.com/pulse/meus-aprendizados-basecamp-patr%C3%ADcia-mitsuko-mashiba/)
-
 <br/>
 
-## Coding Activitys
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mitsu325&show_icons=true&theme=dracula" alt="Mitsu325's github stats" />
-</p>
-
-<br/>
-
-<p align="right">
-  <a href="#">
-      <img src="https://visitor-badge.glitch.me/badge?page_id=Mitsu325.Mitsu325" />
-   </a>
 </p>
