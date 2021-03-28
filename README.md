@@ -5,7 +5,7 @@
 ### Bem-Vindo ao meu perfil !
 <p>
   Me chamo Alex, White Hat <img width="32" src="https://banner2.cleanpng.com/20180605/uys/kisspng-white-hat-six-thinking-hats-security-hacker-jose-rizal-5b174045b77b41.0502344715282504377516.jpg" alt="White_Hat" /> <p>
-  Brasileiro [🇧🇷] [1F301] <p>
+  Brasileiro [🇧🇷] [1F301] // [1F326] 1F326 <p>
   Servo de Cristo 🙏 <p>
   Casado 👪 <p>
   Pai da Ana Luiza 👶<p>
