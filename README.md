@@ -5,7 +5,7 @@
 ### Bem-Vindo ao meu perfil !
 <p>
   Me chamo Alex, White Hat <img width="32" src="https://banner2.cleanpng.com/20180605/uys/kisspng-white-hat-six-thinking-hats-security-hacker-jose-rizal-5b174045b77b41.0502344715282504377516.jpg" alt="White_Hat" /> <p>
-  BR
+  BR <p>
   Servo de Cristo 🙏 <p>
   Casado 👪 <p>
   Pai da Ana Luiza 👶<p>
@@ -19,7 +19,7 @@
 
 - 👨‍💻 Caço recompensas em plataformas de BugBounty e reporto vulnerabilidades não intrusivas para empresas que não estão nessas plataformas, faço isso como uma forma de promover a segurança na internet.  :wink:;
 
-- 📚 Estou concluindo a certificacação DCPT da Desec Security e meu próximo objetivo é ir para a OSCP e CEH; 
+- 📚 Concluindo a certificacação DCPT da Desec Security e meu próximo alvo é ir OSCP ou CEH; 
 
 - 💬 Quando não estou lendo sobre tecnologia, estou lendo coisas relacionadas ao Cristianismo. 
 
@@ -27,7 +27,7 @@
 
 ### Como me encontrar:
 
-<a href="https://www.linkedin.com/in/alexfariasantos/">
+<a href="https://www.linkedin.com/in/alexfariasdosantos/">
   <code><img alt="My linkedin" width="32" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1614275769~hmac=9d20f238957e9e109085a51380446f00" /></code>
 </a>
 
