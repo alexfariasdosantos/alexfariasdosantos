@@ -4,12 +4,12 @@
 
 ### Bem-Vindo ao meu perfil !
 <p>
-  Me chamo Alex, Sou um White Hat <img width="32" src="https://banner2.cleanpng.com/20180605/uys/kisspng-white-hat-six-thinking-hats-security-hacker-jose-rizal-5b174045b77b41.0502344715282504377516.jpg" alt="White_Hat" /> <p>
-  Brasileiro :br: <p>
+  Me chamo Alex, White Hat <img width="32" src="https://banner2.cleanpng.com/20180605/uys/kisspng-white-hat-six-thinking-hats-security-hacker-jose-rizal-5b174045b77b41.0502344715282504377516.jpg" alt="White_Hat" /> <p>
+  Brasileiro :🇧🇷: <p>
   Servo de Cristo 🙏 <p>
-  Apaixonado por Hacking ❤️<p>
   Casado 👪 <p>
   Pai da Ana Luiza 👶<p>
+  Hacking ❤️<p>
   
 </p>
 
